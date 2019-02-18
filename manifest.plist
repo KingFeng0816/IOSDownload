@@ -35,9 +35,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ElevatorTrainingPlatform</string>
+				<string>ETD</string>
 				<key>update-url</key>
-				<string>https://172.16.16.53:4433/lmsFiles/phoneApp/manifest.plist</string>
+				<string>http://xodx.newxi-ao.com:8060/lmsFiles/phoneApp/manifest.plist</string>
 			</dict>
 		</dict>
 	</array>
