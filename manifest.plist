@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://172.16.16.53:4433/lmsFiles/phoneApp/icon.png</string>
+					<string>http://xodx.newxi-ao.com:8060/lmsFiles/phoneApp/ETDicon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://172.16.16.53:4433/lmsFiles/phoneApp/icon.png</string>
+					<string>http://xodx.newxi-ao.com:8060/lmsFiles/phoneApp/ETDicon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
