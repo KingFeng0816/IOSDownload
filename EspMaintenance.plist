@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zxtech.ETPPlatform</string>
+				<string>com.zxtech.ESP</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ElevatorTrainingPlatform</string>
+				<string>ESP</string>
 				<key>update-url</key>
 				<string>http://etp.5000m.com/lmsFiles/phoneApp/EspMaintenance.plist</string>
 			</dict>
